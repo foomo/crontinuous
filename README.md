@@ -9,7 +9,7 @@ Build into a lightweight docker container it gives you the power to schedule tas
 
 When it comes to defining cronjobs have a look at [Tom Ryder's post about best practices](https://sanctum.geek.nz/arabesque/cron-best-practices/).
 
-Another interesting approach is to use Alpine's crond directly to [https://getcarina.com/docs/tutorials/schedule-tasks-cron/](schedule tasks with a cron container).
+Another interesting approach is to use Alpine's crond directly to [schedule tasks with a cron container](https://getcarina.com/docs/tutorials/schedule-tasks-cron/).
 
 License
 -------
