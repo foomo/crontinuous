@@ -2,3 +2,7 @@ language: go
 go:
   - 1.5
   - tip
+install:
+  - go get github.com/Sirupsen/logrus
+  - go get github.com/robfig/cron
+  - go get gopkg.in/fsnotify.v1
